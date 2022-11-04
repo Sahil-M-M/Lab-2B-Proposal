@@ -25,3 +25,16 @@ o	Protoboard
 
 o	Breadboard and Jumper Wires
 
+##	4. Proposal:
+
+We have implemented the proposed circuit.
+
+When the push button is pressed, depending upon the position of the slider switch, the LEDs in the shape of an arrow pointing in the direction selected turn on. When the button is released, no matter what the position of the slider switch is, no LED will turn on.
+
+![Lab-2B-Proposal](https://user-images.githubusercontent.com/73771085/200074548-9859a580-284c-4cc2-bce4-f13ee1390a39.gif)
+
+![Protoboard Front - Copy](https://user-images.githubusercontent.com/73771085/200075264-20a71a41-8a5f-45ec-86c7-24c38faa097a.jpeg)
+
+![Protoboard Back - Copy](https://user-images.githubusercontent.com/73771085/200075266-6cbc3c12-737a-4f62-92c1-74f03048d18f.jpeg)
+
+
